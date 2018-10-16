@@ -1,0 +1,252 @@
+
+
+/* NAVBAR */ 
+
+.navbar {
+
+	background-color: #E0C90B;
+	text-transform: uppercase;
+	font-family: 'Mukta Vaani', serif;
+	font-weight: 400px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+}
+.navbar a {
+
+	color: #000000 ! important;
+	opacity: 0.5;
+	font-size: 20px;
+
+}
+.navbar a:hover {
+	opacity: 0.9;
+	background-color: #E0520B ;
+
+
+}
+
+/* NAVBAR */ 
+
+
+/* BODY */
+body {
+	overflow: auto;
+	font-family: 'Poiret One';
+
+}
+
+
+/* JUMBOTRON */
+
+.jumbotron {
+	/*background-color: #104290;*/
+	min-height: 800px;
+	background-image: url("header2.JPG");
+}
+
+.jcontainer1 {
+	padding-top: 250px;
+}
+
+.jcontainer1 h1 {
+	font-family: 'Mukta Vaani';
+	font-size: 90px;
+	color: #E0C90B;
+}
+
+.jcontainer1 p {
+	font-size: 30px;
+	color: #000000;
+
+}
+
+/* END JUMBOTRON */
+
+
+/* ABOUT */
+
+.containerAbout {
+	min-height: 620px;
+	padding-top: 30px;
+}
+
+
+.containerAbout h2 {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.containerAbout p {
+	padding-left: 100px;
+	padding-top: 20px;
+	font-size: 20px;
+}
+.containerAbout img {
+	width: 500px;
+	padding-left: 80px;
+	
+}
+
+.containerAbout h3 {
+	text-align: center;
+}
+
+.containerAbout ul {
+	text-align: left;
+}
+
+/* List */
+
+.listSection {
+	padding-left: 150px;
+	padding-top: 50px;
+	font-size: 18px;
+}
+
+/* END ABOUT */
+
+/* PROJECTS */ 
+
+
+.containerProjects {
+	background-color: #E0C90B; 
+	min-height: 1000px;
+}  
+
+.containerProjects h2 {
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 70px;
+}
+
+/* Website Project */
+.photoEdit img {
+	width: 300px;
+	padding-left: 110px;
+
+}
+
+.photoEdit h3 {
+	padding-left: 110px;
+}
+
+/* OleQuiz Project */
+.quizEdit img {
+	width: 300px;
+	padding-left: 130px;
+	padding-top: 20px;
+}
+
+.quizEdit h3 {
+	padding-left: 145px;
+	padding-top: 5px;
+}
+
+/* STOtrack Project */
+
+.moneyEdit img {
+width: 300px;
+padding-left: 130px;
+padding-top: 20px;
+}
+
+.moneyEdit h3 {
+	padding-left: 150px;
+}
+
+.moneyEdit h4 {
+	padding-left: 180px;
+}
+
+/* CodeCamp Exp. */
+.codecamp h1 {
+	padding-top: 50px;
+	font-family: 'Alfa Slab One';
+	color: #F50606;
+	padding-left: 250px;
+}
+
+.codecamp h3 {
+	padding-left: 160px;
+}
+
+/* SGA Exp. */
+
+.sga img {
+	width: 440px;
+	padding-top: 20px;
+	padding-left: 200px;
+}
+
+.sga h3 {
+	padding-top: 0px;
+	padding-left: 200px;
+}
+
+.sga h4 {
+	padding-left: 120px;
+}
+
+/* END PROJECTS */
+
+/* CONTACT */
+
+.containerContact {
+	min-height: 500px;
+}
+
+.containerContact h2 {
+	text-align: center;
+	padding-top: 80px;
+}
+
+.containerContact img {
+	padding-left: 100px;
+	padding-top: 70px;
+
+}
+
+.containerContact h3 {
+	padding-left: 135px;
+}
+/*
+.mail img {
+	padding-left: 100px;
+	padding-top: 70px;
+}
+
+.resume img {
+	padding-left: 100px;
+	padding-top: 70px;
+}
+
+.linkedin img {
+	padding-left: 100px;
+	padding-top: 70px;
+}
+
+.git img {
+	padding-left: 100px;
+	padding-top: 70px;
+}
+*/
+
+/* END CONTACT */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
